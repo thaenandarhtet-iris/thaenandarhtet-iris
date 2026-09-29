@@ -1,4 +1,4 @@
-# Hi, I'm Iris 👋
+# Hi, I'm Iris
 
 **Analytics engineer / data engineer.** I build tested data pipelines and models that turn raw data into numbers people can trust, and I check that they reconcile.
 
