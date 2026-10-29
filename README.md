@@ -1,6 +1,8 @@
 # Hi, I'm Iris 👋
 
-**Analytics engineer / data engineer, moving toward research.** I build tested data pipelines and models that turn raw data into numbers people can trust, and I check that they reconcile. I'm now looking for research opportunities where I can ask harder questions of data, not just report on it.
+**Industrial Engineering student at Georgia Tech**, concentrating in data science and analytics, and exploring AI and operations research.
+
+I build tested data pipelines and models that turn raw data into numbers people can trust, and I check that they reconcile. I'm now looking for research opportunities where I can ask harder questions of data, not just report on it.
 
 - Modelling with dbt and SQL: dimensional models, slowly changing dimensions, metrics that reconcile
 - Pipelines that run end to end from one command, with data tests and CI on every push
