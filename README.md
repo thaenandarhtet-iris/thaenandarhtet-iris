@@ -1,6 +1,6 @@
 # Hi, I'm Iris 👋
 
-**Industrial Engineering student at Georgia Tech**, concentrating in data science and analytics, and exploring AI and operations research.
+**Industrial Engineering student at Georgia Tech**, concentrating in Data Science and Analytics and exploring the AI and Operations Research for Decision Making concentration.
 
 I build tested data pipelines and models that turn raw data into numbers people can trust, and I check that they reconcile. I'm now looking for research opportunities where I can ask harder questions of data, not just report on it.
 
